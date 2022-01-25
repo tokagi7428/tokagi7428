@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Guide
-- 👀 I’m interested in Data Scientist
+- 👀 I’m interested in Web programming
 - 🌱 I’m currently learning at Ramkhamhaeng University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
